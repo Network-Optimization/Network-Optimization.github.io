@@ -177,7 +177,8 @@ A Python-based IoT data transmission and IPv6 identity management system with MQ
 
 - **National First Prize (Top 0.3%)**, China Undergraduate Mathematical Contest in Modeling (CUMCM), *2019*
 - **National Second Prize**, Huawei Cup Graduate Mathematical Contest in Modeling, *2024*
-- **National Third Prize**, Huawei Cup Graduate Mathematical Contest in Modeling — with 1 granted patent, 2 pending invention patents, 2 IETF drafts, and ¥900K project commercialization, *2024*
+- **National Third Prize**, Huawei Cup Graduate Mathematical Contest in Modeling, *2024*
+- **1 granted patent**, 2 pending invention patents, 2 IETF drafts, and ¥900K project commercialization from the modeling project, *2024*
 
 ## 🛠️ Skills
 
