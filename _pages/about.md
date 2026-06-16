@@ -176,7 +176,7 @@ Jintao Guo*, **<u>Ying Zhou</u>***, Chao Li, Guixun Luo\\
 </div>
 
 <div class="edu-entry">
-  <img src="images/intern/casic-parent.png" class="edu-logo-wide edu-logo-plate edu-logo-plate-light" alt="China Aerospace Science and Industry Corporation">
+  <img src="images/intern/casic-parent.png" class="edu-logo-wide edu-logo-plate edu-logo-plate-dark" alt="China Aerospace Science and Industry Corporation">
   <div class="edu-text">
     <em>2022.10 - 2024.11</em>, <strong>Development Intern</strong><br>
     <strong>Aerospace Remote Sensing Equipment Institute</strong> (<font face=STKaiti>航天遥感设备所</font>)<br>
@@ -185,7 +185,7 @@ Jintao Guo*, **<u>Ying Zhou</u>***, Chao Li, Guixun Luo\\
 </div>
 
 <div class="edu-entry">
-  <img src="images/intern/sg-company.png" class="edu-logo-wide edu-logo-plate edu-logo-plate-green" alt="State Grid Corporation of China">
+  <img src="images/intern/sg-company.png" class="edu-logo-wide edu-logo-plate edu-logo-plate-mid" alt="State Grid Corporation of China">
   <div class="edu-text">
     <em>2020.09 - 2021.07</em>, <strong>Development Intern</strong><br>
     <strong>State Grid Information &amp; Telecommunication Group</strong> (<font face=STKaiti>国网信息通信产业集团</font>)<br>
