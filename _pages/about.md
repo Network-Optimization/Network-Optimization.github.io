@@ -115,24 +115,35 @@ Jintao Guo*, **<u>Ying Zhou</u>***, Chao Li, Guixun Luo\\
 **_ACM CCS 2025_** (<font color="orange">Under Review, CCF-A</font>)\\
 [[arxiv](https://arxiv.org/abs/2507.06508)]
 
-## 💼 Projects
+## 💼 Internships
 
-- **Qingcheng Zhiji Technology** — AI Infra Intern (*2025.10 - 2026.01*)\\
-Deployed vLLM/SGLang inference engines; built productized API with Chitu inference backend (Turnkey Taiji app); implemented K8s elastic scaling and Docker-based training/inference traffic simulation; collaborated with BAAI, Tsinghua, and Zhipu.
+- **AI Infra Intern**, Qingcheng Zhiji Technology (<font face=STKaiti>清程极智</font>, *2025.10 - 2026.01*)\\
+Tsinghua-affiliated AI infrastructure startup building inference engines and turnkey deployment products for large-model serving.
 
-- **Shenzhen University of Advanced Technology** — Research Intern (*2025.07 - 2025.10*)\\
-Extended SimAI communication layer by remapping all-reduce/reduce-scatter to custom NCCL P2P sequences; injected dynamic topology via SimAI Topology interface. Joint submission to SIGCOMM with Max Planck Institute.\\
+- **Research Intern**, Shenzhen University of Advanced Technology (<font face=STKaiti>深圳理工大学</font>, *2025.07 - 2025.10*)\\
+A new-type research university in Shenzhen focused on AI, advanced computing, and interdisciplinary engineering research.
+
+- **Algorithm Intern**, China Mobile Terminal Company (<font face=STKaiti>中国移动终端公司</font>, *2024.08 - 2025.06*)\\
+The terminal R&D subsidiary of China Mobile, developing intelligent algorithms and software for consumer devices.
+
+- **Development Intern**, Aerospace Remote Sensing Equipment Institute (<font face=STKaiti>航天遥感设备所</font>, *2022.10 - 2024.11*)\\
+A research institute specializing in aerospace remote sensing systems and network communication technologies.
+
+- **Development Intern**, State Grid Information & Telecommunication Group (<font face=STKaiti>国网信息通信产业集团</font>, *2020.09 - 2021.07*)\\
+A State Grid subsidiary providing IoT, information communication, and smart grid infrastructure solutions.
+
+## 🚀 Projects
+
+- **LoongX: SimAI Communication Layer Extension**\\
+Extended the SimAI framework for LLM distributed training by remapping collective communication to custom NCCL P2P sequences; joint SIGCOMM submission with Max Planck Institute.\\
 [[code](https://github.com/jhlxp/loongx)]
 
-- **China Mobile Terminal Company** — Algorithm Intern (*2024.08 - 2025.06*)\\
-Built RAG pipeline with SimCSE embeddings and \<keyword, summary, fact\> triplets; applied memory-mapped weight bias in reranking for transaction-level knowledge control.
-
-- **Aerospace Remote Sensing Equipment Institute** — Development Intern (*2022.10 - 2024.11*)\\
-Implemented OSPF and LISP protocol simulation in Linux C; built Mininet testbeds; deployed MQTT-based network monitoring dashboard.\\
+- **Docker Network Simulation**\\
+A Docker-based network emulation platform supporting OSPF/LISP protocols, Mininet testbeds, and MQTT-based real-time network visualization.\\
 [[code](https://github.com/Network-Optimization/DockerNetworkSimulation)]
 
-- **State Grid Information & Telecommunication Group** — Development Intern (*2020.09 - 2021.07*)\\
-Built Python-based IoT data transmission and IPv6 identity management system with MQTT; implemented temperature monitoring and device localization.\\
+- **Smart IoT & IPv6 Identity Management System**\\
+A Python-based IoT data transmission and IPv6 identity management system with MQTT messaging, deployed for State Grid smart infrastructure.\\
 [[demo](https://b23.tv/bNhyhaf)]
 
 ## 🏅 Honors and Awards
