@@ -130,9 +130,9 @@ Ziyang Chen*, **<u>Ying Zhou</u>***, Fei Song\\
 **<u>Ying Zhou</u>**, et al.\\
 **_IEEE Transactions on Green Communications and Networking (TGCN)_** (<font color="red">Emerging Tier 2</font>, IF: 6.7, <font color="red">Under Review</font>)
 
-- **Subgraph Counting under Edge Local Differential Privacy Based on Noisy Adjacency Matrix**\\
+- **Subgraph Counting under Edge Local Differential Privacy Based on Noisy Adjacency Matrix**‡\\
 Jintao Guo*, **<u>Ying Zhou</u>***, Chao Li, Guixun Luo\\
-**_ACM CCS 2025_** (<font color="red">CCF-A</font>)\\
+**_ACM CCS 2025_** (<font color="red">CCF-A</font>, <font color="red">Under Review</font>)\\
 [[arxiv](https://arxiv.org/abs/2507.06508)]
 
 </div>
