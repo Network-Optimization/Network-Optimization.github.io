@@ -107,3 +107,77 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* --- Elegant site effects --- */
+body {
+  background: linear-gradient(165deg, #fafbfd 0%, #f5f8fc 42%, #ffffff 100%);
+}
+
+#network-canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+  pointer-events: none;
+  opacity: 0.5;
+}
+
+.masthead,
+#main,
+.sidebar {
+  position: relative;
+  z-index: 1;
+}
+
+.masthead {
+  transition: background-color 0.35s ease, box-shadow 0.35s ease, backdrop-filter 0.35s ease;
+}
+
+.masthead.is-scrolled {
+  background-color: rgba(255, 255, 255, 0.84);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  box-shadow: 0 1px 0 rgba(34, 75, 141, 0.07);
+}
+
+.reveal-item {
+  opacity: 0;
+  transform: translateY(12px);
+  transition: opacity 0.6s cubic-bezier(0.22, 1, 0.36, 1),
+              transform 0.6s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.reveal-item.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.page__content > ul > li {
+  border-left: 2px solid transparent;
+  padding-left: 0.45em;
+  margin-left: -0.45em;
+  transition: transform 0.22s ease, border-color 0.22s ease;
+}
+
+.page__content > ul > li:hover {
+  transform: translateX(2px);
+  border-left-color: rgba(34, 75, 141, 0.28);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  #network-canvas {
+    display: none;
+  }
+
+  .reveal-item {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+
+  .page__content > ul > li:hover {
+    transform: none;
+  }
+}
