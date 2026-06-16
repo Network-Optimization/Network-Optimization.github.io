@@ -1,4 +1,9 @@
 {% assign sorted_news = site.data.news | sort: "sort" | reverse %}
+<div class="news-feed">
 {% for item in sorted_news limit: 10 %}
-- *{{ item.date }}*: &nbsp;{{ item.content | markdownify | replace: '<p>', '' | replace: '</p>', '' | strip }}
+  <article class="news-item reveal-item">
+    <time class="news-item__date" datetime="{{ item.date }}">{{ item.date }}</time>
+    <div class="news-item__body">{{ item.content | markdownify }}</div>
+  </article>
 {% endfor %}
+</div>

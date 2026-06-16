@@ -8,37 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-<style>
-ul {
-  line-height: 1.5;
-}
-.edu-entry {
-  display: flex;
-  align-items: center;
-  gap: 1rem;
-  margin: 0.8rem 0 1.2rem 0;
-}
-.edu-logo {
-  width: 56px;
-  height: 56px;
-  object-fit: contain;
-  flex-shrink: 0;
-}
-.edu-logo-wide {
-  width: auto;
-  height: 48px;
-  max-width: 120px;
-  object-fit: contain;
-  flex-shrink: 0;
-}
-.edu-text {
-  flex: 1;
-}
-</style>
 
 <span class='anchor' id='about-me'></span>
 
-I'm Ying Zhou (<font face=STKaiti>周瀛</font>). I received my Ph.D. in Information and Communication Engineering from Beijing Jiaotong University in 2026, advised by Professor [Jialong Li](https://franklee94.github.io/) (<font face=STKaiti>李嘉龙</font>, SUAT), Professor [Fei Song](https://faculty.bjtu.edu.cn/8366/) (<font face=STKaiti>宋飞</font>, BJTU), and Professor Xie Renjie (<font face=STKaiti>谢仁杰</font>, GUET). I will join **Moore Threads** (<font face=STKaiti>摩尔线程</font>) as an **AI Infrastructure Engineer**. I received my Bachelor's degree in Software Engineering from **China University of Petroleum (Beijing)** (<font face=STKaiti>中国石油大学（北京）</font>) in 2020, ranking **1/60** in GPA.
+<div class="page-hero">
+  <div class="page-hero__glow" aria-hidden="true"></div>
+  <p class="page-hero__name">Ying Zhou <span class="page-hero__cn">周瀛</span></p>
+  <p class="page-hero__tagline">Distributed Networks · AI Infrastructure · Federated Learning</p>
+</div>
+
+I'm Ying Zhou (<font face=STKaiti>周瀛</font>). I received my Ph.D. in Information and Communication Engineering from Beijing Jiaotong University in 2026, advised by Professor [Jialong Li](https://franklee94.github.io/) (<font face=STKaiti>李嘉龙</font>, SUAT), Professor [Fei Song](https://faculty.bjtu.edu.cn/8366/) (<font face=STKaiti>宋飞</font>, BJTU), and Professor [Xie Renjie](https://ieeexplore.ieee.org/author/37086882593) (<font face=STKaiti>谢仁杰</font>, GUET). I will join **Moore Threads** (<font face=STKaiti>摩尔线程</font>) as an **AI Infrastructure Engineer**. I received my Bachelor's degree in Software Engineering from **China University of Petroleum (Beijing)** (<font face=STKaiti>中国石油大学（北京）</font>) in 2020, ranking **1/60** in GPA.
 
 My research interests span **distributed networks**, **data center networks**, **federated learning**, and **AI infrastructure** — with a focus on communication-efficient distributed systems, WAN performance modeling, and large-scale network optimization.
 
@@ -61,15 +40,11 @@ A full list of my IEEE publications is available on [IEEE Xplore](https://ieeexp
 </div>
 
 <div class="edu-entry">
-  <div style="display:flex;flex-direction:column;gap:0.4rem;flex-shrink:0;">
-    <img src="images/edu/cupk.png" class="edu-logo-wide" alt="China University of Petroleum (Beijing) Karamay Campus">
-    <img src="images/edu/cupb.png" class="edu-logo-wide" alt="China University of Petroleum (Beijing)">
-  </div>
+  <img src="images/edu/cupb.png" class="edu-logo-wide" alt="China University of Petroleum (Beijing)">
   <div class="edu-text">
     <em>2016.09 - 2020.07</em>, B.E. in Software Engineering<br>
     <strong>China University of Petroleum (Beijing)</strong> (<font face=STKaiti>中国石油大学（北京）</font>) — <strong>GPA Rank 1/60</strong><br>
-    <em>2016.09 - 2019.07</em>, Karamay Campus (<font face=STKaiti>克拉玛依校区</font>)<br>
-    <em>2019.09 - 2020.07</em>, Beijing Campus (<font face=STKaiti>北京校本部</font>)
+    <span class="edu-campus">Karamay Campus (<font face=STKaiti>克拉玛依校区</font>, 2016.09–2019.07) · Beijing Campus (<font face=STKaiti>北京校本部</font>, 2019.09–2020.07)</span>
   </div>
 </div>
 
@@ -77,9 +52,11 @@ A full list of my IEEE publications is available on [IEEE Xplore](https://ieeexp
 
 ### (*: Co-first Author / 共一作; $^{\dagger}$: Corresponding Author / 通讯作者)
 
+<div class="pub-list" markdown="1">
+
 - **FedSA-CE: Selection-Aware Clustering for Personalized Federated Learning in Heterogeneous Vehicular Networks**\\
 **<u>Ying Zhou</u>**, Ziyang Chen, Huilin Ai, Heng Xu, Chengze Du, Guangjing He, Jialong Li\\
-**_IEEE Transactions on Consumer Electronics_** (<font color="red">Emerging Tier 2</font>, IF: 10.9)\\
+**_IEEE Transactions on Consumer Electronics_** (<font color="red">Emerging Tier 1</font>, IF: 10.9)\\
 [[pdf](https://ieeexplore.ieee.org/document/11408890)] [[doi](https://doi.org/10.1109/tce.2026.3667716)]
 
 - **I-AOMDV: QoS-aware Multipath Routing Protocol for Enhanced Performance in Dynamic Multi-Node Vehicle Area Network**\\
@@ -97,6 +74,10 @@ Heng Xu, Zhiwei Yu, Chengze Du, **<u>Ying Zhou</u>**, Letian Li, Haojie Wang, We
 Heng Xu, Chengze Du, Zhiwei Yu, Letian Li, **<u>Ying Zhou</u>**, Bo Liu, Jialong Li\\
 **_IEEE Transactions on Network Science and Engineering (TNSE)_** (<font color="red">CCF-B</font>, Emerging Tier 2, IF: 7.9)\\
 [[pdf](https://ieeexplore.ieee.org/document/11527076)] [[doi](https://doi.org/10.1109/tnse.2026.3695132)]
+
+- **Distributed Flow Control for Efficient DNN Training Scheduling**\\
+Heng Xu, Chengze Du, Zhiwei Yu, Letian Li, **<u>Ying Zhou</u>**, Bo Liu, Jialong Li\\
+**_IEEE Transactions on Network and Service Management (TNSM)_** (<font color="red">CCF-C</font>, Emerging Tier 2, IF: 5.4)\\
 
 - **FMD-AL: Cold-Start Active Learning based on Foundation Model**\\
 Huilin Ai<sup>*</sup>, **<u>Ying Zhou</u><sup>*</sup>**, Zhonghua Peng, Ziyang Chen,\\
@@ -142,6 +123,8 @@ Ziyang Chen*, **<u>Ying Zhou</u>***, Fei Song\\
 Jintao Guo*, **<u>Ying Zhou</u>***, Chao Li, Guixun Luo\\
 **_ACM CCS 2025_** (<font color="red">CCF-A</font>)\\
 [[arxiv](https://arxiv.org/abs/2507.06508)]
+
+</div>
 
 ## 💼 Internships
 
@@ -193,10 +176,10 @@ C/C++, Python, PyTorch, vLLM, SGLang, Kubernetes, Docker, distributed networking
 
 - **Ph.D. Supervisor**: [Jialong Li](https://franklee94.github.io/) (<font face=STKaiti>李嘉龙</font>, Shenzhen University of Advanced Technology) — [Homepage](https://franklee94.github.io/) · [IEEE Xplore](https://ieeexplore.ieee.org/author/37086018709)
 - **Ph.D. Co-supervisor**: [Fei Song](https://faculty.bjtu.edu.cn/8366/) (<font face=STKaiti>宋飞</font>, Beijing Jiaotong University) — [Homepage](https://faculty.bjtu.edu.cn/8366/) · [IEEE Xplore](https://ieeexplore.ieee.org/author/37586161500)
-- **Ph.D. Co-supervisor**: Xie Renjie (<font face=STKaiti>谢仁杰</font>, Guilin University of Electronic Technology)
+- **Ph.D. Co-supervisor**: [Xie Renjie](https://ieeexplore.ieee.org/author/37086882593) (<font face=STKaiti>谢仁杰</font>, Guilin University of Electronic Technology) — [IEEE Xplore](https://ieeexplore.ieee.org/author/37086882593) · [Google Scholar](https://scholar.google.co.uk/citations?user=-1CEey0AAAAJ&hl=th)
 - **Long-term Collaborators**:
-  - [Heng Xu](https://scholar.google.com/citations?user=zav19AkAAAAJ) (<font face=STKaiti>徐珩</font>, Shenzhen University of Advanced Technology)
-  - Sun Jialong (<font face=STKaiti>孙嘉隆</font>, Shenzhen University of Advanced Technology)
+  - [Heng Xu](https://ieeexplore.ieee.org/author/270741000144665) (<font face=STKaiti>徐珩</font>, Shenzhen University of Advanced Technology) — [IEEE Xplore](https://ieeexplore.ieee.org/author/270741000144665)
+  - [Sun Jialong](https://ieeexplore.ieee.org/author/559977918259426) (<font face=STKaiti>孙嘉隆</font>, Shenzhen University of Advanced Technology) — [IEEE Xplore](https://ieeexplore.ieee.org/author/559977918259426)
   - Wu Zailong (<font face=STKaiti>吴再龙</font>, [Qingcheng Zhiji Technology](https://www.qc-ai.cn/))
   - He Wanqing (<font face=STKaiti>何万青</font>, [Tsingmicro](https://www.tsingmicro.com/))
 - **My IEEE Publications**: [IEEE Xplore](https://ieeexplore.ieee.org/author/37087009843)
