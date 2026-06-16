@@ -109,6 +109,13 @@ h1:before, .anchor:before {
 }
 
 /* --- Elegant site effects --- */
+.site-effects {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+}
+
 html {
   scroll-behavior: smooth;
 }
@@ -290,7 +297,6 @@ body.is-mouse-active .mouse-glow {
   opacity: 1;
 }
 
-.masthead,
 #main,
 .sidebar {
   position: relative;
@@ -298,6 +304,9 @@ body.is-mouse-active .mouse-glow {
 }
 
 .masthead {
+  position: sticky;
+  top: 0;
+  z-index: 100;
   background-color: rgba(255, 255, 255, 0.72);
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
@@ -318,6 +327,7 @@ body.is-mouse-active .mouse-glow {
 
 .page__content h2 {
   position: relative;
+  scroll-margin-top: 5.5rem;
 }
 
 .page__content h2::after {
@@ -596,6 +606,15 @@ body.is-mouse-active .page-hero {
 }
 
 /* --- Navigation polish --- */
+.greedy-nav .visible-links {
+  position: relative;
+  z-index: 2;
+}
+
+.greedy-nav button.hidden {
+  display: none;
+}
+
 .masthead__menu-item a {
   position: relative;
   transition: color 0.2s ease;

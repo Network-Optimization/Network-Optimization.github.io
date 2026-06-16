@@ -25,11 +25,11 @@ Feel free to reach out via email!
 
 A full list of my IEEE publications is available on [IEEE Xplore](https://ieeexplore.ieee.org/author/37087009843).
 
-## 🔥 News
+## 🔥 News {#news}
 
 {% include news-list.html %}
 
-## 📖 Educations
+## 📖 Educations {#educations}
 
 <div class="edu-entry">
   <img src="images/edu/bjtu.svg" class="edu-logo" alt="Beijing Jiaotong University">
@@ -48,7 +48,7 @@ A full list of my IEEE publications is available on [IEEE Xplore](https://ieeexp
   </div>
 </div>
 
-## ✨ Selected Publications
+## ✨ Selected Publications {#selected-publications}
 
 ### (*: Co-first Author / 共一作; $^{\dagger}$: Corresponding Author / 通讯作者)
 
@@ -126,7 +126,7 @@ Jintao Guo*, **<u>Ying Zhou</u>***, Chao Li, Guixun Luo\\
 
 </div>
 
-## 💼 Internships
+## 💼 Internships {#internships}
 
 - **AI Infra Intern**, Qingcheng Zhiji Technology (<font face=STKaiti>清程极智</font>, *2025.10 - 2026.01*)\\
 Tsinghua-affiliated AI infrastructure startup building inference engines and turnkey deployment products for large-model serving.
@@ -143,7 +143,7 @@ A research institute specializing in aerospace remote sensing systems and networ
 - **Development Intern**, State Grid Information & Telecommunication Group (<font face=STKaiti>国网信息通信产业集团</font>, *2020.09 - 2021.07*)\\
 A State Grid subsidiary providing IoT, information communication, and smart grid infrastructure solutions.
 
-## 🚀 Projects
+## 🚀 Projects {#projects}
 
 - **DLSAG: Dynamic Load-aware Steiner Aggregation for Large-Scale Network Path Optimization**\\
 A dynamic load-aware Steiner aggregation routing algorithm for large-scale IoT networks, reducing max link utilization by 4.4%–28.8% over OLSR/AODV baselines while improving packet delivery rate. Published at **IEEE GLOBECOM 2025**.\\
@@ -161,18 +161,18 @@ A Docker-based network emulation platform supporting OSPF/LISP protocols, Minine
 A Python-based IoT data transmission and IPv6 identity management system with MQTT messaging, deployed for State Grid smart infrastructure.\\
 [[demo](https://b23.tv/bNhyhaf)]
 
-## 🏅 Honors and Awards
+## 🏅 Honors and Awards {#honors-and-awards}
 
 - **National First Prize (Top 0.3%)**, China Undergraduate Mathematical Contest in Modeling (CUMCM), *2019*
 - **National Second Prize**, Huawei Cup Graduate Mathematical Contest in Modeling, *2024*
 - **National Third Prize**, Huawei Cup Graduate Mathematical Contest in Modeling, *2024*
 - **1 granted patent**, 2 pending invention patents, 2 IETF drafts, and ¥900K project commercialization from the modeling project, *2024*
 
-## 🛠️ Skills
+## 🛠️ Skills {#skills}
 
 C/C++, Python, PyTorch, vLLM, SGLang, Kubernetes, Docker, distributed networking, data center networking, federated learning, AI infrastructure
 
-## 🔗 Links
+## 🔗 Links {#links}
 
 - **Ph.D. Supervisor**: [Jialong Li](https://franklee94.github.io/) (<font face=STKaiti>李嘉龙</font>, Shenzhen University of Advanced Technology) — [Homepage](https://franklee94.github.io/) · [IEEE Xplore](https://ieeexplore.ieee.org/author/37086018709)
 - **Ph.D. Co-supervisor**: [Fei Song](https://faculty.bjtu.edu.cn/8366/) (<font face=STKaiti>宋飞</font>, Beijing Jiaotong University) — [Homepage](https://faculty.bjtu.edu.cn/8366/) · [IEEE Xplore](https://ieeexplore.ieee.org/author/37586161500)

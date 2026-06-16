@@ -4,25 +4,25 @@ main:
     url: "/#about-me"
 
   - title: "News"
-    url: "/#-news"
+    url: "/#news"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/#educations"
 
   - title: "Publications"
-    url: "/#-selected-publications"
+    url: "/#selected-publications"
 
   - title: "Internships"
-    url: "/#-internships"
+    url: "/#internships"
 
   - title: "Projects"
-    url: "/#-projects"
+    url: "/#projects"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/#honors-and-awards"
 
   - title: "Skills"
-    url: "/#-skills"
+    url: "/#skills"
 
   - title: "Links"
-    url: "/#-links"
+    url: "/#links"
