@@ -142,10 +142,7 @@ Built Python-based IoT data transmission and IPv6 identity management system wit
 
 ## 🛠️ Skills
 
-- **Languages & Frameworks**: C/C++, Python, PyTorch, Flask, MySQL
-- **Domains**: Distributed systems, data center networking, federated learning, AI inference infrastructure (vLLM, SGLang, K8s, Docker)
-- **Tools**: Data analysis, Office suite
-- **Languages**: English (CET-6)
+C/C++, Python, PyTorch, vLLM, SGLang, Kubernetes, Docker, distributed networking, data center networking, federated learning, AI infrastructure
 
 ## 🔗 Links
 
