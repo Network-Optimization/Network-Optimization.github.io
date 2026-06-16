@@ -128,11 +128,6 @@ Ziyang Chen*, **<u>Ying Zhou</u>***, Fei Song\\
 **_IEEE ICASSP 2025_** (<font color="red">CCF-B</font>)\\
 [[pdf](https://ieeexplore.ieee.org/document/10890205)] [[doi](https://doi.org/10.1109/icassp49660.2025.10890205)]
 
-- **Elastic Balancing of Communication Efficiency and Performance in Federated Learning with Staged Clustering**\\
-**<u>Ying Zhou</u>**, Fang Cui, Junlin Che, Mao Ni, Zhiyuan Zhang, Jundi Li\\
-**_Electronics_** (JCR Q2, IF: 2.6)\\
-[[pdf](https://www.mdpi.com/2079-9292/14/4/745)] [[doi](https://doi.org/10.3390/electronics14040745)]
-
 - **Correlation Analysis for Exploring Large-Scale Latency Variability in WANs**\\
 **<u>Ying Zhou</u>**, Mingzhen Wu, Fei Song\\
 **_IEEE IPCCC 2024_** (<font color="red">CCF-C</font>)\\
