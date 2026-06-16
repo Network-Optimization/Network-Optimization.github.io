@@ -134,6 +134,10 @@ A State Grid subsidiary providing IoT, information communication, and smart grid
 
 ## 🚀 Projects
 
+- **DLSAG: Dynamic Load-aware Steiner Aggregation for Large-Scale Network Path Optimization**\\
+A dynamic load-aware Steiner aggregation routing algorithm for large-scale IoT networks, reducing max link utilization by 4.4%–28.8% over OLSR/AODV baselines while improving packet delivery rate. Published at **IEEE GLOBECOM 2025**.\\
+[[pdf](https://ieeexplore.ieee.org/document/11432238)] [[doi](https://doi.org/10.1109/globecom59602.2025.11432238)]
+
 - **LoongX: SimAI Communication Layer Extension**\\
 Extended the SimAI framework for LLM distributed training by remapping collective communication to custom NCCL P2P sequences; joint SIGCOMM submission with Max Planck Institute.\\
 [[code](https://github.com/jhlxp/loongx)]
