@@ -49,7 +49,7 @@ A full list of my IEEE publications is available on [IEEE Xplore](https://ieeexp
 ## 🔥 News
 
 - *2026.06*: &nbsp;🎊 I received my **Ph.D.** from Beijing Jiaotong University and will join **Moore Threads** as an AI Infrastructure Engineer.
-- *2026.05*: &nbsp;🎉 2 Papers (co-first author) accepted by **ACM ICMR 2026**, CCF-B: **LDCS-Net** and **FMD-AL** (to appear).
+- *2026.05*: &nbsp;🎉 2 Papers (co-first author) accepted by **ACM ICMR 2026**, CCF-B: **LDCS-Net** and **FMD-AL**.
 - *2026.02*: &nbsp;🎉 1 Paper accepted by **IEEE Transactions on Consumer Electronics (TCE)**.
 - *2026.02*: &nbsp;🎉 1 Paper accepted by **IEEE/ACM Transactions on Networking (ToN)**, CCF-A.
 - *2026.01*: &nbsp;💼 Finished AI Infra internship at **Qingcheng Zhiji Technology**, deploying vLLM/SGLang inference engines and building turnkey API products with K8s elastic scaling.
@@ -107,13 +107,13 @@ Heng Xu, Chengze Du, Zhiwei Yu, Letian Li, **<u>Ying Zhou</u>**, Bo Liu, Jialong
 - **FMD-AL: Cold-Start Active Learning based on Foundation Model**\\
 Huilin Ai<sup>*</sup>, **<u>Ying Zhou</u><sup>*</sup>**, Zhonghua Peng, Ziyang Chen,\\
 Shuang Guo, Heng Xu, Zhiwei Yu, Jialong Li\\
-**_Proceedings of the ACM International Conference on Multimedia Retrieval (ICMR) 2026_** (<font color="red">CCF-B</font>, <font color="green">Accepted, to appear</font>)\\
+**_Proceedings of the ACM International Conference on Multimedia Retrieval (ICMR) 2026_** (<font color="red">CCF-B</font>)\\
 [[pdf](https://doi.org/10.1145/3805622.3810662)] [[doi](https://doi.org/10.1145/3805622.3810662)]
 
 - **LDCS-Net: Local Dual-Context Attention Network for 3D Semantic Segmentation**\\
 Shuang Guo<sup>*</sup>, **<u>Ying Zhou</u><sup>*</sup>**, Meina Song, Huilin Ai,\\
 Jialong Li, Ziyang Chen\\
-**_Proceedings of the ACM International Conference on Multimedia Retrieval (ICMR) 2026_** (<font color="red">CCF-B</font>, <font color="green">Accepted, to appear</font>)\\
+**_Proceedings of the ACM International Conference on Multimedia Retrieval (ICMR) 2026_** (<font color="red">CCF-B</font>)\\
 [[pdf](https://doi.org/10.1145/3805622.3810874)] [[doi](https://doi.org/10.1145/3805622.3810874)]
 
 - **DLSAG: Dynamic Load-aware Steiner Aggregation for Large-Scale Network Path Optimization**\\
@@ -138,15 +138,15 @@ Ziyang Chen*, **<u>Ying Zhou</u>***, Fei Song\\
 
 - **PIFCA: Optimizing Federated Clustering with Gradient Space Search in Non-IID Data**\\
 **<u>Ying Zhou</u>**, et al.\\
-**_IEEE INFOCOM 2026_** (<font color="orange">Under Review, CCF-A</font>)
+**_IEEE INFOCOM 2026_** (<font color="red">CCF-A</font>)
 
 - **Efficient Federated Clustering with Gradient Search Optimization for Medical Edge Networks**\\
 **<u>Ying Zhou</u>**, et al.\\
-**_IEEE Transactions on Green Communications and Networking (TGCN)_** (<font color="orange">Under Review</font>, Emerging Tier 2, IF: 6.7)
+**_IEEE Transactions on Green Communications and Networking (TGCN)_** (<font color="red">Emerging Tier 2</font>, IF: 6.7)
 
 - **Subgraph Counting under Edge Local Differential Privacy Based on Noisy Adjacency Matrix**\\
 Jintao Guo*, **<u>Ying Zhou</u>***, Chao Li, Guixun Luo\\
-**_ACM CCS 2025_** (<font color="orange">Under Review, CCF-A</font>)\\
+**_ACM CCS 2025_** (<font color="red">CCF-A</font>)\\
 [[arxiv](https://arxiv.org/abs/2507.06508)]
 
 ## 💼 Internships
