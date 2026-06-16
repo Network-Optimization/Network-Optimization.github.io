@@ -128,7 +128,7 @@ Built RAG pipeline with SimCSE embeddings and \<keyword, summary, fact\> triplet
 
 - **Aerospace Remote Sensing Equipment Institute** — Development Intern (*2022.10 - 2024.11*)\\
 Implemented OSPF and LISP protocol simulation in Linux C; built Mininet testbeds; deployed MQTT-based network monitoring dashboard.\\
-[[code](https://gitee.com/zhouyingbjtu/docker-network-simulation-master)]
+[[code](https://github.com/Network-Optimization/DockerNetworkSimulation)]
 
 - **State Grid Information & Telecommunication Group** — Development Intern (*2020.09 - 2021.07*)\\
 Built Python-based IoT data transmission and IPv6 identity management system with MQTT; implemented temperature monitoring and device localization.\\
