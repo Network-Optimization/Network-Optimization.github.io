@@ -50,7 +50,7 @@ A full list of my IEEE publications is available on [IEEE Xplore](https://ieeexp
 
 ## ✨ Selected Publications {#selected-publications}
 
-### (*: Co-first Author / 共一作; $^{\dagger}$: Corresponding Author / 通讯作者)
+### (*: Co-first Author / 共一作; $^{\dagger}$: Corresponding Author / 通讯作者; ‡: Under Review / 在投)
 
 <div class="pub-list" markdown="1">
 
@@ -111,13 +111,13 @@ Ziyang Chen*, **<u>Ying Zhou</u>***, Fei Song\\
 **_IEEE IPCCC 2024_** (<font color="red">CCF-C</font>)\\
 [[pdf](https://ieeexplore.ieee.org/document/10850326)] [[doi](https://doi.org/10.1109/ipccc59868.2024.10850326)]
 
-- **PIFCA: Optimizing Federated Clustering with Gradient Space Search in Non-IID Data**\\
+- **PIFCA: Optimizing Federated Clustering with Gradient Space Search in Non-IID Data**‡\\
 **<u>Ying Zhou</u>**, et al.\\
-**_IEEE INFOCOM 2026_** (<font color="red">CCF-A</font>)
+**_IEEE INFOCOM 2026_** (<font color="red">CCF-A</font>, <font color="red">Under Review</font>)
 
-- **Efficient Federated Clustering with Gradient Search Optimization for Medical Edge Networks**\\
+- **Efficient Federated Clustering with Gradient Search Optimization for Medical Edge Networks**‡\\
 **<u>Ying Zhou</u>**, et al.\\
-**_IEEE Transactions on Green Communications and Networking (TGCN)_** (<font color="red">Emerging Tier 2</font>, IF: 6.7)
+**_IEEE Transactions on Green Communications and Networking (TGCN)_** (<font color="red">Emerging Tier 2</font>, IF: 6.7, <font color="red">Under Review</font>)
 
 - **Subgraph Counting under Edge Local Differential Privacy Based on Noisy Adjacency Matrix**\\
 Jintao Guo*, **<u>Ying Zhou</u>***, Chao Li, Guixun Luo\\
