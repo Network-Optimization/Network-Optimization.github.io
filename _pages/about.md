@@ -12,6 +12,28 @@ redirect_from:
 ul {
   line-height: 1.5;
 }
+.edu-entry {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin: 0.8rem 0 1.2rem 0;
+}
+.edu-logo {
+  width: 56px;
+  height: 56px;
+  object-fit: contain;
+  flex-shrink: 0;
+}
+.edu-logo-wide {
+  width: auto;
+  height: 48px;
+  max-width: 120px;
+  object-fit: contain;
+  flex-shrink: 0;
+}
+.edu-text {
+  flex: 1;
+}
 </style>
 
 <span class='anchor' id='about-me'></span>
@@ -40,8 +62,21 @@ A full list of my IEEE publications is available on [IEEE Xplore](https://ieeexp
 
 ## 📖 Educations
 
-- *2020.09 - 2026.06*, Ph.D. in Information and Communication Engineering, School of Electronic and Information Engineering, Beijing Jiaotong University
-- *2016.09 - 2020.07*, B.E. in Software Engineering, China University of Petroleum (Beijing) — **GPA Rank 1/60**
+<div class="edu-entry">
+  <img src="images/edu/bjtu.svg" class="edu-logo" alt="Beijing Jiaotong University">
+  <div class="edu-text">
+    <em>2020.09 - 2026.06</em>, Ph.D. in Information and Communication Engineering<br>
+    School of Electronic and Information Engineering, <strong>Beijing Jiaotong University</strong> (<font face=STKaiti>北京交通大学</font>)
+  </div>
+</div>
+
+<div class="edu-entry">
+  <img src="images/edu/cupb.png" class="edu-logo-wide" alt="China University of Petroleum (Beijing)">
+  <div class="edu-text">
+    <em>2016.09 - 2020.07</em>, B.E. in Software Engineering<br>
+    <strong>China University of Petroleum (Beijing)</strong> (<font face=STKaiti>中国石油大学（北京）</font>) — <strong>GPA Rank 1/60</strong>
+  </div>
+</div>
 
 ## ✨ Selected Publications
 
