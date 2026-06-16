@@ -140,7 +140,7 @@ Jintao Guo*, **<u>Ying Zhou</u>***, Chao Li, Guixun Luo\\
 ## 💼 Internships {#internships}
 
 <div class="edu-entry">
-  <img src="images/intern/xinyan-logo-cand-1.png" class="edu-logo-wide" alt="Xinyan Robotics">
+  <img src="images/intern/xinyan-logo-cand-1.png" class="edu-logo-wide edu-logo-plate edu-logo-plate-dark" alt="Xinyan Robotics">
   <div class="edu-text">
     <em>2026.03 - 2026.06</em>, <strong>Robotics Infra Intern</strong><br>
     <strong>Xinyan Robotics</strong> (<font face=STKaiti>心言机器人</font>)<br>
@@ -167,7 +167,7 @@ Jintao Guo*, **<u>Ying Zhou</u>***, Chao Li, Guixun Luo\\
 </div>
 
 <div class="edu-entry">
-  <img src="images/intern/china-mobile-official.svg" class="edu-logo-wide" alt="China Mobile">
+  <img src="images/intern/china-mobile-official.svg" class="edu-logo-wide edu-logo-plate edu-logo-plate-light" alt="China Mobile">
   <div class="edu-text">
     <em>2024.08 - 2025.06</em>, <strong>Algorithm Intern</strong><br>
     <strong>China Mobile Terminal Company</strong> (<font face=STKaiti>中国移动终端公司</font>)<br>
@@ -176,7 +176,7 @@ Jintao Guo*, **<u>Ying Zhou</u>***, Chao Li, Guixun Luo\\
 </div>
 
 <div class="edu-entry">
-  <img src="images/intern/aerospace-parent.png" class="edu-logo" alt="Aerospace Remote Sensing Equipment Institute">
+  <img src="images/intern/casic-parent.png" class="edu-logo-wide edu-logo-plate edu-logo-plate-light" alt="China Aerospace Science and Industry Corporation">
   <div class="edu-text">
     <em>2022.10 - 2024.11</em>, <strong>Development Intern</strong><br>
     <strong>Aerospace Remote Sensing Equipment Institute</strong> (<font face=STKaiti>航天遥感设备所</font>)<br>
@@ -185,7 +185,7 @@ Jintao Guo*, **<u>Ying Zhou</u>***, Chao Li, Guixun Luo\\
 </div>
 
 <div class="edu-entry">
-  <img src="images/intern/state-grid-tju-2.png" class="edu-logo" alt="State Grid Information and Telecommunication Group">
+  <img src="images/intern/sg-company.png" class="edu-logo-wide edu-logo-plate edu-logo-plate-green" alt="State Grid Corporation of China">
   <div class="edu-text">
     <em>2020.09 - 2021.07</em>, <strong>Development Intern</strong><br>
     <strong>State Grid Information &amp; Telecommunication Group</strong> (<font face=STKaiti>国网信息通信产业集团</font>)<br>

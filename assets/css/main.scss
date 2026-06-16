@@ -336,6 +336,23 @@ body {
   flex-shrink: 0;
 }
 
+.edu-logo-plate {
+  padding: 6px 8px;
+  border-radius: 10px;
+}
+
+.edu-logo-plate-light {
+  background: #f3f6fb;
+}
+
+.edu-logo-plate-green {
+  background: #eef8f0;
+}
+
+.edu-logo-plate-dark {
+  background: #2f3a5a;
+}
+
 .edu-text {
   flex: 1;
 }
