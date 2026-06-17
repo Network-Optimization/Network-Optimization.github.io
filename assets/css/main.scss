@@ -336,25 +336,12 @@ body {
   flex-shrink: 0;
 }
 
-.edu-logo-plate {
-  padding: 6px 8px;
+#internships ~ .edu-entry .edu-logo,
+#internships ~ .edu-entry .edu-logo-wide {
+  padding: 8px 10px;
   border-radius: 10px;
-}
-
-.edu-logo-plate-light {
-  background: #e6eefc;
-}
-
-.edu-logo-plate-green {
-  background: #d9efde;
-}
-
-.edu-logo-plate-mid {
-  background: #dfe8f8;
-}
-
-.edu-logo-plate-dark {
-  background: #223355;
+  background: #152238;
+  box-sizing: border-box;
 }
 
 .edu-text {
